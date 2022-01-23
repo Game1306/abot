@@ -1,0 +1,8 @@
+{"name":"paulsbot",
+"version":"1.5.1",
+"description":"A fun bot",
+"main":"bot.js",
+"author":"Paul",
+"dependencies":{
+	"discord.io":"https://github.com/woor/discord.io/tarball/gateway_v6",
+	"winston":"^3.4.0"}}
